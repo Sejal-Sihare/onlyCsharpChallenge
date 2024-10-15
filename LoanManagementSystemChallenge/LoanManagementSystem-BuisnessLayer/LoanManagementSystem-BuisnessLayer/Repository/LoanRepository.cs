@@ -14,22 +14,29 @@ namespace LoanManagementSystem_BuisnessLayer.Repository
     {
         public bool ApplyLoan(Loan loan)
         {
-            using (var conn = DButil.getDBConnection())
+            bool status = false;
+            using (SqlConnection conn = DButil.getDBConnection())
             {
                 conn.Open();
-                string query = "insert into Loan (LoanId,CustomerId,PrincipalAmount,InterestRate,LoanTerm,LoanType,,loanStatus)"
-                    + "values('" + loan.LoanId + "','" + loan.CustomerId + "' ,'" + loan.PrincipalAmount + "','" + loan.InterestRate + "','" + loan.LoanTerm + "','" + loan.LoanType + "','" + loan.loanStatus + "')";
+                string query = "insert into Loan (LoanId,CustomerId,PrincipalAmount,InterestRate,LoanTerm,LoanType,loanStatus)values(@LoanId,@CustomerId,@PrincipalAmount,@InterestRate,@LoanTerm,@LoanType,@loanStatus);";
                 SqlCommand cmd = new SqlCommand(query, conn);
+                cmd.Parameters.AddWithValue("@LoanId", loan.LoanId);
+                cmd.Parameters.AddWithValue("@CustomerId", loan.CustomerId);
+                cmd.Parameters.AddWithValue("@PrincipalAmount", loan.PrincipalAmount);
+                cmd.Parameters.AddWithValue("@InterestRate", loan.InterestRate);
+                cmd.Parameters.AddWithValue("@LoanTerm", loan.LoanTerm);
+                cmd.Parameters.AddWithValue("@LoanType", loan.LoanType);
+                cmd.Parameters.AddWithValue("@loanStatus", loan.loanStatus);
 
                 int count = cmd.ExecuteNonQuery();
 
                 if (count > 0)
                 {
-                    return true;
+                   status = true;
                 }
-                return false;
-
+               
             }
+            return status;
         }
 
         public int CalculateEmi(int LoanId)
@@ -57,7 +64,7 @@ namespace LoanManagementSystem_BuisnessLayer.Repository
                  int  pa = Convert.ToInt32(sqlDataReader[0]);
                   int  ir = Convert.ToInt32(sqlDataReader[1]);
                   int  lt = Convert.ToInt32(sqlDataReader[2]);
-                   int result = (int)(pa * ir * lt) / 12;
+                    result = (int)(pa * ir * lt) / 12;
 
                     return result;
                 }
@@ -94,7 +101,7 @@ namespace LoanManagementSystem_BuisnessLayer.Repository
         // getting the loan by Id of loan
         public void getLoanById(int LoanId)
         {
-            using (var conn = DButil.getDBConnection())
+            using (SqlConnection conn = DButil.getDBConnection())
             {
                 conn.Open();
                 string query = "select * from Loan where LoanId = '" + LoanId + "'";
@@ -106,7 +113,7 @@ namespace LoanManagementSystem_BuisnessLayer.Repository
                 Console.WriteLine("LoanID\tCustomerID\tPrincipalAmount\tInterestRate\tLoanTerm\tLoanType\tLoanStatus ");
 
 
-                while (sqlDataReader.Read())
+               if(sqlDataReader.Read())
                 {
                     Console.WriteLine(sqlDataReader[0] + "\t\t " + sqlDataReader[1]
 
@@ -153,8 +160,8 @@ namespace LoanManagementSystem_BuisnessLayer.Repository
 
         public string LoanStatus(int LoanId)
         {
-          //  string status = null;
-            using (var conn = DButil.getDBConnection())
+           string status = null;
+            using (SqlConnection conn = DButil.getDBConnection())
             {// open Coonection
                 conn.Open();
                 string query = "select LoanStatus from Loan where LoanId = '" + LoanId + "'";

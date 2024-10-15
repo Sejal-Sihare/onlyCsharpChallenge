@@ -13,7 +13,7 @@ namespace LoanManagement_DButil
         {
            
                 SqlConnection conn;
-            string connectionstring = "Data Source = LAPTOP - J8HVGTPS\\SQLEXPRESS; Initial Catalog = LoanManagement; Integrated Security = True; TrustServerCertificate = True";
+            string connectionstring = "Data Source=LAPTOP-J8HVGTPS\\SQLEXPRESS;Initial Catalog=LoanManagement;Integrated Security=True";
                 conn = new SqlConnection(connectionstring);
 
                 return conn;

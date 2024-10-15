@@ -5,6 +5,12 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement-Application", "LoanManagement-Application\LoanManagement-Application.csproj", "{9712683D-4484-4030-B84B-509E11F6477C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem-BuisnessLayer", "..\LoanManagementSystem-BuisnessLayer\LoanManagementSystem-BuisnessLayer\LoanManagementSystem-BuisnessLayer.csproj", "{C0FC37FD-6B46-4006-8BCF-65499E647FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement-DButil", "..\LoanManagement-DButil\LoanManagement-DButil\LoanManagement-DButil.csproj", "{9C8BA29E-4214-47E9-914A-851252862D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem-Entity", "..\LoanManagementSystem-Entity\LoanManagementSystem-Entity\LoanManagementSystem-Entity.csproj", "{A0505689-1D25-4065-8AF6-768C772A19E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{9712683D-4484-4030-B84B-509E11F6477C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9712683D-4484-4030-B84B-509E11F6477C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9712683D-4484-4030-B84B-509E11F6477C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0FC37FD-6B46-4006-8BCF-65499E647FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0FC37FD-6B46-4006-8BCF-65499E647FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0FC37FD-6B46-4006-8BCF-65499E647FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0FC37FD-6B46-4006-8BCF-65499E647FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8BA29E-4214-47E9-914A-851252862D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8BA29E-4214-47E9-914A-851252862D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8BA29E-4214-47E9-914A-851252862D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8BA29E-4214-47E9-914A-851252862D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0505689-1D25-4065-8AF6-768C772A19E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0505689-1D25-4065-8AF6-768C772A19E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0505689-1D25-4065-8AF6-768C772A19E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0505689-1D25-4065-8AF6-768C772A19E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

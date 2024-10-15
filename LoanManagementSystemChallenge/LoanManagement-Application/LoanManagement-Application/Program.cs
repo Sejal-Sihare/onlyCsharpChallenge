@@ -15,7 +15,7 @@ namespace LoanManagement_Application
         {
             Console.WriteLine("Welcome to the loan Management System");
             LoanRepository loanRepository = new LoanRepository();
-            LoanService loanService = new LoanService( loanRepository);
+            LoanService loanService = new LoanService(loanRepository);
             Console.WriteLine("To Apply for Loan type 1");
             Console.WriteLine("To Calculate Interest type 2");
             Console.WriteLine("To get Loan Status type 3");
@@ -30,7 +30,7 @@ namespace LoanManagement_Application
             switch (choice)
             {
                 case 1:
-       var result4 = loanService.ApplyLoan(new Loan() { LoanId = 6, CustomerId = 1, PrincipalAmount = 4000, InterestRate = 4, LoanTerm = 5, LoanType = "CarLoan", loanStatus = "pending" });
+       bool result4 = loanService.ApplyLoan(new Loan() { LoanId = 6, CustomerId = 1, PrincipalAmount = 400, InterestRate = 4, LoanTerm = 5, LoanType = "CarLoan", loanStatus = "pending"});
                     if (result4)
                     {
                         Console.WriteLine("Loan is added Successfully");
@@ -41,20 +41,20 @@ namespace LoanManagement_Application
                     }
                     break;
                 case 2:
-                    int a = loanService.CalculateInterest(1);
+                    int a = loanService.CalculateInterest(20);
                     Console.WriteLine($"The following is the interest{a}");
                     break;
                 case 3:
-                    string status= loanService.LoanStatus(1);
+                    string status= loanService.LoanStatus(10);
                     Console.WriteLine($"The following is the status{status}");
                     break;
                 case 4:
-                    decimal d = loanService.calculateEMI(4);
+                    decimal d = loanService.calculateEMI(40);
                     Console.WriteLine($"The Emi is{d}");
                     break;
                    
                 case 5:
-                    loanService.loanRepayment(2, 20000);
+                    loanService.loanRepayment(20, 20000);
                     break;
                 
                 case 6:
@@ -62,7 +62,7 @@ namespace LoanManagement_Application
                     break;
 
                 case 7:
-                    loanService.getLoanById(1);
+                    loanService.getLoanById(10);
                     break;
             }
 

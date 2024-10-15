@@ -4,3 +4,6 @@ C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\Loa
 C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\obj\Debug\LoanManagement-DButil.csproj.CoreCompileInputs.cache
 C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\obj\Debug\LoanManagement-DButil.dll
 C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\obj\Debug\LoanManagement-DButil.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\bin\Debug\LoanManagementSystem-Entity.dll
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\bin\Debug\LoanManagementSystem-Entity.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagement-DButil\LoanManagement-DButil\obj\Debug\LoanMana.029AEB31.Up2Date
