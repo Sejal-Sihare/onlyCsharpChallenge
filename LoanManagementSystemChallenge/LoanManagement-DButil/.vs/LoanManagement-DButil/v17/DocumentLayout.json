@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagement-DButil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8BA29E-4214-47E9-914A-851252862D0A}|LoanManagement-DButil\\LoanManagement-DButil.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagement-dbutil\\loanmanagement-dbutil\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8BA29E-4214-47E9-914A-851252862D0A}|LoanManagement-DButil\\LoanManagement-DButil.csproj|solutionrelative:loanmanagement-dbutil\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DButil.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagement-DButil\\LoanManagement-DButil\\DButil.cs",
+              "RelativeDocumentMoniker": "LoanManagement-DButil\\DButil.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagement-DButil\\LoanManagement-DButil\\DButil.cs",
+              "RelativeToolTip": "LoanManagement-DButil\\DButil.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:20:09.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
