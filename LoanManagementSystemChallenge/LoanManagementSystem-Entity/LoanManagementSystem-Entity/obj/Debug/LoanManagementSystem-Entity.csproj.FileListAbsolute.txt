@@ -1,0 +1,11 @@
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\obj\Debug\LoanManagementSystem-Entity.csproj.AssemblyReference.cache
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\obj\Debug\LoanManagementSystem-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagementSystem-Entity.dll
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagementSystem-Entity.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\obj\Debug\LoanManagementSystem-Entity.dll
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\obj\Debug\LoanManagementSystem-Entity.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagement-DButil.dll
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagementSystem-BuisnessLayer.dll
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagement-DButil.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\bin\Debug\LoanManagementSystem-BuisnessLayer.pdb
+C:\Users\Sejal\Downloads\LoanManagementSystemChallenge\LoanManagementSystem-Entity\LoanManagementSystem-Entity\obj\Debug\LoanMana.722B2537.Up2Date

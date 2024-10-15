@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\service\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\invalidloanexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\service\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\repository\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\repository\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0505689-1D25-4065-8AF6-768C772A19E8}|LoanManagementSystem-Entity\\LoanManagementSystem-Entity.csproj|C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\loanmanagementsystem-entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0505689-1D25-4065-8AF6-768C772A19E8}|LoanManagementSystem-Entity\\LoanManagementSystem-Entity.csproj|solutionrelative:loanmanagementsystem-entity\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0505689-1D25-4065-8AF6-768C772A19E8}|LoanManagementSystem-Entity\\LoanManagementSystem-Entity.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-entity\\loanmanagementsystem-entity\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0505689-1D25-4065-8AF6-768C772A19E8}|LoanManagementSystem-Entity\\LoanManagementSystem-Entity.csproj|solutionrelative:loanmanagementsystem-entity\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FC37FD-6B46-4006-8BCF-65499E647FBC}|..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer.csproj|c:\\users\\sejal\\downloads\\loanmanagementsystemchallenge\\loanmanagementsystem-buisnesslayer\\loanmanagementsystem-buisnesslayer\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidLoanException.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\InvalidLoanException.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\InvalidLoanException.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\InvalidLoanException.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\InvalidLoanException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:11:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ILoanService.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ILoanService.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ILoanService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:06:56.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\ILoanRepository.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\ILoanRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:06:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\LoanService.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\LoanService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\LoanService.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\LoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:41:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\LoanRepository.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\LoanRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswLMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:28:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:27:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\CustomerService.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Service\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:27:09.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\LoanManagementSystem-BuisnessLayer\\LoanManagementSystem-BuisnessLayer\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:26:38.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\LoanManagementSystem-Entity\\Loan.cs",
+              "RelativeDocumentMoniker": "LoanManagementSystem-Entity\\Loan.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\LoanManagementSystem-Entity\\Loan.cs",
+              "RelativeToolTip": "LoanManagementSystem-Entity\\Loan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:57:36.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\LoanManagementSystem-Entity\\Customer.cs",
+              "RelativeDocumentMoniker": "LoanManagementSystem-Entity\\Customer.cs",
+              "ToolTip": "C:\\Users\\Sejal\\Downloads\\LoanManagementSystemChallenge\\LoanManagementSystem-Entity\\LoanManagementSystem-Entity\\Customer.cs",
+              "RelativeToolTip": "LoanManagementSystem-Entity\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:53:13.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
